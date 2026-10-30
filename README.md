@@ -6,7 +6,7 @@ TaleForge AI is a full-stack web application that generates interactive, dynamic
 
 ## 🚀 Live Demo
 
-👉 [Try TaleForge AI](https://gen-story-theta.vercel.app/)
+👉 [Genstory](https://gen-story-theta.vercel.app/)
 
 ---
 
