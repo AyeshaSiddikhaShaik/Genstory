@@ -1,4 +1,4 @@
-# ✨ TaleForge AI — Interactive Storytelling Platform
+# ✨ Genstory — Interactive Storytelling Platform
 
 TaleForge AI is a full-stack web application that generates interactive, dynamic stories based on user inputs and story preferences. It combines AI-driven story generation workflows with a modern, responsive interface to deliver an engaging storytelling experience.
 
