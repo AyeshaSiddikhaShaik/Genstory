@@ -114,7 +114,7 @@ The story-generation workflow connects user input, backend processing, and front
 
 ## 🎯 Project Objective
 
-The goal of TaleForge AI is to demonstrate how a modern web frontend can integrate with Python-based backend services to deliver an interactive, AI-driven storytelling experience.
+The goal of Genstory is to demonstrate how a modern web frontend can integrate with Python-based backend services to deliver an interactive, AI-driven storytelling experience.
 
 ---
 
